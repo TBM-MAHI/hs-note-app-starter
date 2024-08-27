@@ -37,8 +37,8 @@ exports.oAuthCallback = async (req, res) => {
     let accInfo = await getAccountInfo(tokens.access_token);
     console.log("************* logging account information *************");
     console.log(accInfo);
-    
-    // Render the Pug template with the account information
+    logWithDetails('info', `Note Master is successfully installed on portal ${accInfo.portalId}`, req);
+   
     res.render('success', { accInfo });
   } else {
     logWithDetails('warn', 'OAuth callback received without a code', req);
