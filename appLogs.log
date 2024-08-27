@@ -3,3 +3,10 @@
 2024-08-27T10:44:13.576Z [info] : Received access token and refresh token
 2024-08-27T10:44:13.576Z [info] : OAuth callback successful, redirecting to home
 2024-08-27T10:44:13.932Z [info] : Note Master is successfully installed on portal 46907992
+2024-08-27T11:27:20.819Z [info] : Server is running on port 3500
+2024-08-27T11:28:00.213Z [info] : Redirected user to HubSpot OAuth URL for installation
+2024-08-27T11:47:44.694Z [info] : Server is running on port 3500
+2024-08-27T11:48:11.058Z [info] : Redirected user to HubSpot OAuth URL for installation
+2024-08-27T11:49:09.395Z [info] : Received access token and refresh token
+2024-08-27T11:49:09.395Z [info] : OAuth callback successful, redirecting to home
+2024-08-27T11:49:09.772Z [info] : Note Master is successfully installed on portal 46907992
